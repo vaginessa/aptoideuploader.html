@@ -4,8 +4,8 @@
 <html>
 <body>
 
-<h2>Spectacular Mountain</h2>
-<img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;">
+<h2>loading</h2>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/9c104519461997.562dad20c6fbb.gif" alt="loqding" style="width:304px;height:228px;">
 
 </body>
 </html>
